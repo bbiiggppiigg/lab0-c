@@ -1,4 +1,4 @@
-# lab0-c
+#lab0 - c
 Assessing Your C Programming Skills
 
 ## Running the autograders

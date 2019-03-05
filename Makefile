@@ -34,4 +34,3 @@ clean:
 	rm -f *.o *~ qtest /tmp/qtest.*
 	rm -rf *.dSYM
 	(cd traces; rm -f *~)
-
